@@ -12,7 +12,7 @@
 
 ### About
 
-This repository contains the Power BI Project5- HR Analysis Report, which is designed to analyze employee headcount, attrition rate, average salary, and average tenure across various job roles, departments, and education levels.
+This project contains the HR Analysis Report, which is designed to analyze employee headcount, attrition rate, average salary, and average tenure across various job roles, departments, and education levels.
 
 ---
 
@@ -34,12 +34,13 @@ The purpose of the HR Analysis Report is to provide insights into HR metrics by 
 - **Average Tenure:** The average employee tenure is 7 years.
 
 The dashboard also breaks down these metrics by:
+
 - **Job Role:** Sales Executive has the highest attrition rate (57%), whereas Laboratory Technician has the lowest (20%).
 - **Department:** Human Resources has the highest attrition rate (12%), whereas Development has the lowest attrition rate.
-- **Education Level:** Those with a Technical Degree have the lowest attrition rate (4.64%), whereas those with an Other degree have the highest attrition rate (13.5%).
+- **Education Level:** Those with a Technical Degree have the lowest attrition rate (4.64%), whereas those with another degree have the highest attrition rate (13.5%).
 
 ---
 
 ### Conclusion
 
-The PowerBIProject5- HR Analysis Report offers valuable insights into HR metrics. By identifying trends in attrition rates across departments, job roles, and educational backgrounds, HR can develop targeted strategies to reduce employee turnover and optimize recruitment and retention efforts. Additionally, the dashboard helps identify areas where salaries might need adjustment to align with market standards. Continuous monitoring of the data and trends visualized in this dashboard will enable HR to make data-driven decisions to enhance HR practices and employee satisfaction.
+This offers valuable insights into HR metrics. By identifying trends in attrition rates across departments, job roles, and educational backgrounds, HR can develop targeted strategies to reduce employee turnover and optimize recruitment and retention efforts. Additionally, the dashboard helps identify areas where salaries might need adjustment to align with market standards. Continuous monitoring of the data and trends visualized in this dashboard will enable HR to make data-driven decisions to enhance HR practices and employee satisfaction.
