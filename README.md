@@ -1,5 +1,7 @@
 # PowerBIProject5 - HR Analysis Report
 
+Explore the interactive dashboard: [HR Analysis Report](https://app.powerbi.com/view?r=eyJrIjoiMmFlYWQ5NmQtZTg1NS00MDZjLWEzYzktNjQ0OTgzMDA5NThkIiwidCI6IjU0MTM4MTA5LTNiOGEtNDMzNy1hYzk2LTY4ZDE4ODM0NmNhOCIsImMiOjl9)
+
 ### Table of Contents
 
 - [About](#about)
